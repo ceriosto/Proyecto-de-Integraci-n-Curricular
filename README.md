@@ -1,1 +1,1 @@
-# Proyecto-de-Integraci-n-Curricular
+# Proyecto-de-Integracion-Curricular
